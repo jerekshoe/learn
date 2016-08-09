@@ -10,4 +10,4 @@ Download and install [Slack](https://slack.com/downloads)'s desktop app and look
 ### Install Atom
 Atom is the text editor used my most of our staff.
 Download and install [Atom](https://atom.io/).
-<a href="http://example.com/" target="_blank">example</a>
+[a link](http://example.com){:target="_blank"}
